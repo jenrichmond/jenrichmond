@@ -2,7 +2,7 @@
 - 👀 I’m a developmental psychologist who is interested in open science, reproducibility and R
 - 🌱 I’m currently learning how to use Quarto to make pretty documents
 - 💞️ I’m looking to collaborate on teaching materials for R
-- 📫 How to reach me @jenrichmondPhD on twitter
+- 📫 I used to be on twitter @jenrichmondPhD but spend more time [on linkedin these days](https://www.linkedin.com/in/jenny-richmond-83734561/)
 
 <!---
 jenrichmond/jenrichmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
